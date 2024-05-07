@@ -2,3 +2,5 @@ Python.Crash.Course.3rd.Edition.Eric.Matthes.No.Starch.Press.9781718502703.EBook
 pcc_3e-main
 pcc_3e-main.zip
 __pycache__
+.pytest_cache
+__init__.py
